@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adil813882.github.io/adil-moorkkan-photography/sitemap.xml
